@@ -1,0 +1,6 @@
+@חנות_פלאפונים_HostAddress = http://localhost:5207
+
+GET {{חנות_פלאפונים_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
